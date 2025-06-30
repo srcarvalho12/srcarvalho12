@@ -1,42 +1,42 @@
-<h1 align="center">Olá! Eu sou o Sr Carvalho 👋</h1>
-<p align="center">🚀 Analista e Desenvolvedor de Sistemas | Apaixonado por criar soluções reais e experiências digitais incríveis.</p>
+<h1 align="center">Hello! I'm Leonardo Carvalho 👋</h1>
+<p align="center">🚀 Systems Analyst & Developer | Passionate about building real solutions and amazing digital experiences.</p>
 
 ---
 
-### 🛠️ **Tecnologias & Ferramentas**
+### 🛠️ **Technologies & Tools**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="vue" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="vue" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
 </p>
 
 ---
 
-### 🧩 **Projetos que representam meu trabalho**
-- 🔥 **.Zion PIX** — Plataforma de recebimento PIX.
-- 🌐 **Dashboard para monitoramento infantil** — Chart.js, Next.js e dados da OMS.
-- ⚙️ **API modular com Bun & Elysia** — Pensada para performance e escalabilidade.
-- 🧰 **Sistema de revenda + sob demanda** — Gestão + desenvolvimento personalizado.
+### 🧩 **Projects that represent my work**
+- 🔥 **.Zion PIX** — PIX payment platform.
+- 🌐 **Child growth monitoring dashboard** — Chart.js, Next.js and WHO data.
+- ⚙️ **Modular API with Bun & Elysia** — Focused on performance and scalability.
+- 🧰 **Reseller + On-demand system** — Management + custom development.
 
 ---
 
-### ✨ **O que me move**
-> “Não basta entregar código; é sobre entregar valor real para pessoas e negócios.”
+### ✨ **What drives me**
+> “It's not just about delivering code; it's about delivering real value to people and businesses.”
 
-- 🤖 Automatizar processos e reduzir tempo perdido.
-- 🧪 Explorar tecnologias novas e frameworks emergentes.
-- 🧩 Construir soluções modulares, reusáveis e performáticas.
+- 🤖 Automating processes to save time and resources.
+- 🧪 Exploring new technologies and emerging frameworks.
+- 🧩 Building modular, reusable, and high-performance solutions.
 
 ---
 
-### 📊 **Estatísticas**
+### 📊 **Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srcarvalho12&show_icons=true&theme=radical" alt="stats" width="100%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcarvalho12&layout=compact&theme=radical" alt="langs" width="100%" />
@@ -44,8 +44,8 @@
 
 ---
 
-### 📫 **Fale comigo**
-- 🌐 [dotzion.com.br](https://dotzion.com.br) (ou o site da sua empresa)
+### 📫 **Contact me**
+- 🌐 [dotzion.com.br](https://dotzion.com.br)
 - 📧 leonardo@dotzion.com.br
 <!-- - 💼 [LinkedIn](https://www.linkedin.com/in/SEU_PERFIL)
 - 📦 [npm](https://www.npmjs.com/~SEU_USUARIO) -->
