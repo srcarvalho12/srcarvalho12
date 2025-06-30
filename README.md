@@ -38,8 +38,8 @@
 
 ### 📊 **Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srcarvalho12&show_icons=true&theme=radical" alt="stats" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcarvalho12&layout=compact&theme=radical" alt="langs" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srcarvalho12&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcarvalho12&layout=compact&theme=radical" alt="langs"/>
 </p>
 
 ---
