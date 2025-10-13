@@ -20,7 +20,7 @@
 ---
 
 ### 🧩 **Projects that represent my work**
-- 🔥 **.Zion PIX** — PIX payment platform.
+- 🔥 **.Zion** — On-demand development.
 - 🌐 **Child growth monitoring dashboard** — Chart.js, Next.js and WHO data.
 - ⚙️ **Modular API with Bun & Elysia** — Focused on performance and scalability.
 - 🧰 **Reseller + On-demand system** — Management + custom development.
